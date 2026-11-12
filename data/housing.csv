@@ -1,0 +1,15 @@
+bedrooms,bathrooms,square_feet,age_years,neighborhood,property_type,sale_price
+2,1,950,40,North,condo,285000
+3,2,1450,25,East,house,410000
+4,3,2200,12,West,house,625000
+1,1,700,55,South,condo,210000
+3,2,1600,18,North,house,455000
+5,3,2600,8,East,house,710000
+2,2,1100,30,West,condo,335000
+4,2,1950,20,South,house,520000
+3,1,1300,45,North,house,365000
+2,1,900,60,East,condo,245000
+5,4,3000,5,West,house,825000
+3,2,1550,22,South,house,430000
+4,3,2300,10,North,house,680000
+1,1,650,70,West,condo,195000
